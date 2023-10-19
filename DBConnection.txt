@@ -1,0 +1,1 @@
+Server=localhost;Database=ProjectMTest;User Id=sa;Password=Astera123;
